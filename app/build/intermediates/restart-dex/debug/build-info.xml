@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="209602805376759"
+    token="-2856854029995477255" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="209283304993042"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/AkiraQuenot/Desktop/S08/Mobile application development/TD6/YouTubePlayer/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="209602805376759" />
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Sun Mar 26 22:26:18 CEST 2017
+base.0=/Users/AkiraQuenot/Desktop/S08/Mobile application development/TD6/YouTubePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d11b7f0dd6990206b324bcba718c32c4a44a7e2e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/AkiraQuenot/Desktop/S08/Mobile application development/TD6/YouTubePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78e9ac07711c05cede4a86ecf803b979a1560560/classes.dex
+base.1=/Users/AkiraQuenot/Desktop/S08/Mobile application development/TD6/YouTubePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78e9ac07711c05cede4a86ecf803b979a1560560
+file.0=/Users/AkiraQuenot/Desktop/S08/Mobile application development/TD6/YouTubePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d11b7f0dd6990206b324bcba718c32c4a44a7e2e/classes.dex
